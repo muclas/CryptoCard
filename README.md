@@ -1,2 +1,0 @@
-# CryptoCard
-Created with CodeSandbox
